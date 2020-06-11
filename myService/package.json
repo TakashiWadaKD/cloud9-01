@@ -1,0 +1,26 @@
+{
+  "name": "myservice",
+  "version": "1.0.0",
+  "description": "testCloud9",
+  "main": "handler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakashiWadaKD/cloud9-01.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "\"Takashi Wada\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakashiWadaKD/cloud9-01/issues"
+  },
+  "homepage": "https://github.com/TakashiWadaKD/cloud9-01#readme",
+  "dependencies": {
+    "aws-sdk": "^2.694.0",
+    "uuid": "^8.1.0"
+  }
+}
