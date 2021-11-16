@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/TakashiWadaKD/cloud9-01#readme",
   "dependencies": {
-    "aws-sdk": "^2.694.0",
+    "aws-sdk": "^2.814.0",
     "uuid": "^8.1.0"
   }
 }
